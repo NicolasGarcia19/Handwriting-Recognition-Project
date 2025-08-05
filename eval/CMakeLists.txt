@@ -1,0 +1,5 @@
+add_pa_exec(hrs-backend hrs-backend.cc)
+add_pa_exec(hrs-binary-search-eval hrs-binary-search-eval.cc)
+add_pa_exec(hrs-linear-search-eval hrs-linear-search-eval.cc)
+add_pa_exec(hrs-table-search-eval hrs-table-search-eval.cc)
+add_pa_exec(hrs-tree-search-eval hrs-tree-search-eval.cc)

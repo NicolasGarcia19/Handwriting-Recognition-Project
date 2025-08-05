@@ -1,0 +1,40 @@
+# Build directories
+build/
+build-coverage/
+pa5-sys/build/
+pa5-sys/build-coverage/
+pa4-sys/build/
+pa4-sys/build-coverage/
+
+# Core dump files
+vgcore.*
+
+# Compiled object files
+*.o
+*.obj
+
+# Compiled binary/executable files
+*.exe
+*.out
+*.app
+
+# Libraries
+*.lib
+*.a
+*.so
+*.dll
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Editor files
+*.swp
+*~
+.idea/
+.vscode/
+
+# Logs and temporary files
+*.log
+*.tmp
